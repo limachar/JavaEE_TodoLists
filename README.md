@@ -44,8 +44,3 @@ This is a simple ToDo application implemented in Java EE using Spring Boot for t
 2. Register a new account or log in with an existing one.
 3. Create, update, and manage your ToDo lists and items.
 
-## Contributing
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting pull requests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
